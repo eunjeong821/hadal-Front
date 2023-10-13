@@ -1,0 +1,15 @@
+* {
+    background-color:beige;
+}
+
+#subtitle {
+    color:gray;
+}
+
+.darkblue {
+    color:darkblue;
+}
+
+.image {
+    border: 3px solid lightskyblue;
+}
